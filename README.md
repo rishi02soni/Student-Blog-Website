@@ -40,9 +40,12 @@ Student-Blog-Website/
 ├── requirements.txt
 └── README.md
 ```
-⚙️ Installation & Setup
-1️⃣ Clone Repository
+## ⚙️ Installation & Setup
+
+> 1️⃣ Clone Repository
+```
 git clone https://github.com/rishi02soni/Student-Blog-Website.git
+```
 2️⃣ Navigate to Project Folder
 cd Student-Blog-Website
 3️⃣ Install Dependencies
