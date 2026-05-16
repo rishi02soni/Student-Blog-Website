@@ -22,7 +22,7 @@ HTML5
 CSS3
 Jinja2 Templates
 ```
-
+---
 ## 📁 Project Structure
 ```
 Student-Blog-Website/
@@ -40,6 +40,7 @@ Student-Blog-Website/
 ├── requirements.txt
 └── README.md
 ```
+---
 ## ⚙️ Installation & Setup
 
 > 1️⃣ Clone Repository
