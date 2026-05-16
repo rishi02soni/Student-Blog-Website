@@ -83,13 +83,15 @@ Static Files in Flask
 Basic Web Development
 ```
 ## 🎯 Future Improvements
+```
 User Authentication
 Database Integration (SQLite/MySQL)
 Comment System
 Like & Share Feature
 Search Functionality
 Dark Mode
-🤝 Contributing
+```
+## 🤝 Contributing
 
 Contributions are welcome!
 
@@ -98,10 +100,11 @@ Create a new branch
 Commit your changes
 Push to your branch
 Create Pull Request
-📄 License
 
+## 📄 License
+```
 This project is created for learning and educational purposes.
-
+```
 👨‍💻 Author
 Rishi Soni
 
