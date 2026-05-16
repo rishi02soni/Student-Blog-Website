@@ -100,20 +100,21 @@ Create a new branch
 Commit your changes
 Push to your branch
 Create Pull Request
-
+---
 ## 📄 License
 ```
 This project is created for learning and educational purposes.
 ```
-👨‍💻 Author
+## 👨‍💻 Author
+```
 Rishi Soni
-
 GitHub: rishi02soni
-
-⭐ Support
-
+```
+## ⭐ Support
+```
 If you like this project:
 
 ⭐ Star the repository
 🍴 Fork the project
 📢 Share with friends
+```
