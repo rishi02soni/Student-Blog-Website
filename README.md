@@ -46,15 +46,24 @@ Student-Blog-Website/
 ```
 git clone https://github.com/rishi02soni/Student-Blog-Website.git
 ```
-2️⃣ Navigate to Project Folder
+> 2️⃣ Navigate to Project Folder
+```
 cd Student-Blog-Website
-3️⃣ Install Dependencies
+```
+>3️⃣ Install Dependencies
+```
 pip install -r requirements.txt
-4️⃣ Run Flask App
+```
+>4️⃣ Run Flask App
+```
 python app.py
-🌐 Open in Browser
+```
+## 🌐 Open in Browser
+```
 http://127.0.0.1:5000/
-📸 Screenshots
+```
+## 📸 Screenshots
+```
 🏠 Home Page
 Displays all blog posts
 ✍️ Create Post Page
@@ -62,9 +71,9 @@ Add new student blog posts
 📝 Edit Post Page
 Update existing blog content
 📚 Learning Concepts
-
+```
 This project helps you understand:
-
+```
 Flask Routing
 CRUD Operations
 HTML Templates
@@ -72,7 +81,8 @@ Jinja2
 Form Handling
 Static Files in Flask
 Basic Web Development
-🎯 Future Improvements
+```
+## 🎯 Future Improvements
 User Authentication
 Database Integration (SQLite/MySQL)
 Comment System
