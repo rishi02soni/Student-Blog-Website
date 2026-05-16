@@ -14,13 +14,17 @@ This project is beginner-friendly and perfect for learning Flask CRUD operations
 📂 Organized Project Structure
 💻 Beginner Friendly Project
 ```
-🛠️ Technologies Used
+>🛠️ Technologies Used
+```
 Python
 Flask
 HTML5
 CSS3
 Jinja2 Templates
-📁 Project Structure
+```
+
+## 📁 Project Structure
+```
 Student-Blog-Website/
 │
 ├── static/
@@ -35,6 +39,7 @@ Student-Blog-Website/
 ├── app.py
 ├── requirements.txt
 └── README.md
+```
 ⚙️ Installation & Setup
 1️⃣ Clone Repository
 git clone https://github.com/rishi02soni/Student-Blog-Website.git
