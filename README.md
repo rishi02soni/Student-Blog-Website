@@ -1,9 +1,10 @@
-Student Blog Website 📝
+## Student Blog Website 📝
 
 A simple and modern Student Blog Website built using Flask, where students can create, edit, delete, and manage blog posts easily.
 This project is beginner-friendly and perfect for learning Flask CRUD operations, templates, routing, and basic frontend design.
 
-🚀 Features
+> Features
+```
 🏠 Home Page with all blog posts
 ✍️ Create New Blog Post
 📝 Edit Existing Posts
@@ -12,6 +13,7 @@ This project is beginner-friendly and perfect for learning Flask CRUD operations
 ⚡ Flask Backend
 📂 Organized Project Structure
 💻 Beginner Friendly Project
+```
 🛠️ Technologies Used
 Python
 Flask
